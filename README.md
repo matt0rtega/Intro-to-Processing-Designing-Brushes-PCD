@@ -96,6 +96,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 1. Artists and Algorithms
 - [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake)
 - [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r)
+- [Bridget Riley](https://en.wikipedia.org/wiki/Bridget_Riley)
 - [Sol Lewitt](https://en.wikipedia.org/wiki/Sol_LeWitt)
 - [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator))
 
