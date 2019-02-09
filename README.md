@@ -99,6 +99,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 - [Bridget Riley](https://en.wikipedia.org/wiki/Bridget_Riley)
 - [Sol Lewitt](https://en.wikipedia.org/wiki/Sol_LeWitt)
 - [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator))
+- [Kynd](https://www.instagram.com/kyndinfo/)
 
 ## Bonus - Drip Brush with Objects
 
