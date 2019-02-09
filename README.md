@@ -6,6 +6,19 @@ Processing is a flexible software sketchbook and a language for learning how to 
 
 **What is the overall project for the day?** Designing your Own Brushes & Drawing Program
 
+**What I currently do?** - matthewortega.studio - instagram.com/timesareweird
+
+- Show Improbable Inevitable
+- Show Sonic Sketches
+    - What I really like about building these tools is that you never really know what are going to be able to do with. While there may be some preparation, the playful can be quite exciting.
+- Show Instagram
+
+**Outline of the class:**
+
+- Primitives (IDE, Shapes & Colors)
+- Basic Motion with Variables
+- Built-in Variables, Loops & Randomness
+
 **Why learn to code and build your own tools?**
 
 - As technology enters more and more into our lives, we need to become technologically literate and be able to define the usage of new technologies
